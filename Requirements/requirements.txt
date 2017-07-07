@@ -1,0 +1,11 @@
+python
+tensorflow
+scikit-learn
+numpy
+pandas
+php5
+mysql
+
+
+
+
